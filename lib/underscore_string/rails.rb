@@ -2,6 +2,7 @@ require "underscore_string/rails/version"
 
 module UnderscoreString
   module Rails
-    # Your code goes here...
+    class Engine < ::Rails::Engine
+    end
   end
 end
