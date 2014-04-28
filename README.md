@@ -20,3 +20,11 @@ Then require the js in your application.js:
 
     //= require underscore
     //= require underscore.string
+    
+## Usage
+
+underscore.string object is available under the namespace:
+
+    _.str
+    
+Refer to [epeli/underscore.string](https://github.com/epeli/underscore.string) to learn how to use underscore.string.
